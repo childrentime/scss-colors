@@ -1,6 +1,6 @@
 {
   "publisher": "lianwenwu",
-  "name": "@childrentime/scss-colors",
+  "name": "childrentimescss-colors",
   "displayName": "scss-colors",
   "version": "0.0.0",
   "packageManager": "pnpm@9.3.0",
